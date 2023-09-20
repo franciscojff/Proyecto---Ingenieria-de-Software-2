@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <p>Prueba a ver si sirve</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -15,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Testeando a lo shor si porque de inocente no se salva nadie
         </a>
       </header>
     </div>
